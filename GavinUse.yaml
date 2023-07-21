@@ -1,0 +1,15 @@
+# NAME: 自测使用
+# AUTHOR: gavin
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:22:39
+# DOMAIN: 53
+# DOMAIN-SUFFIX: 61
+# IP-CIDR: 8
+# PROCESS-NAME: 6
+# TOTAL: 128
+payload:
+  - DOMAIN-SUFFIX,goodnovel.com
+  - DOMAIN-SUFFIX,buenovela.com
+  - DOMAIN-SUFFIX,goodfm.com
+  - DOMAIN-SUFFIX,goodreels.com
+  - DOMAIN-SUFFIX,goodreels.com

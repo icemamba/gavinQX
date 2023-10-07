@@ -24,7 +24,7 @@ DOMAIN,appcloud2.in.zhihu.com,REJECT
 # 屏蔽我的页面开通会员的卡片
 # ^https?:\/\/api\.zhihu\.com\/unlimited\/go\/my_card data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
 # 去除底部标签页关注人角标
-^https?:\/\/api\.zhihu\.com\/moments\/tab_v2 data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
+# ^https?:\/\/api\.zhihu\.com\/moments\/tab_v2 data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
 # 去除消息通知角标
 ^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count) data="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/blank/blank_dict.json"
 # 拦截回答下的卡片广告
